@@ -13,6 +13,8 @@ npm install && npm start
 
 
 #### User Model
+Validate user input using the provided email validation regex. The project includes a user model with features
+like email validation, password hashing (using bcryptjs), and token generation.
 
 Email Validation Regex
 
